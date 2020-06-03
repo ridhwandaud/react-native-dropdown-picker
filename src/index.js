@@ -214,7 +214,6 @@ const styles = StyleSheet.create({
     },
     dropDownDisplay: {
         flexDirection: 'row',
-        justifyContent: 'center',
         alignItems: 'center',
         textAlign: 'center',
         borderTopRightRadius: 0,
